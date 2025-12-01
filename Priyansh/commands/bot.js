@@ -62,7 +62,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
        
    };
 
-   if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "Owner")) {
+   if ((event.body.toLowerCase() == "owner") || (evenamritaay.toLowerCase() == "Owner")) {
      return api.sendMessage("💝🥀𝐎𝐖𝐍𝐄𝐑:- :- RON!!T ☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 RON!!T🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- https://www.facebook.com/profile.php?id=100018077753687\n👋For Any Kind Of Help Contact On Telegram  Username 👉 🙏🩵😇", threadID);
    };
 
@@ -227,7 +227,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("🩵 ronit Ƞɛ ꌗƥɛçɪɑɭɭɣ Ƭuɱ 🌊🪺Jɑɪʂɛ Ƭɧɑɽƙɪɣɵ Ƙɛ Ɬɪɣɛ•• 🏞️🌬️Ɣɑɧ çɵɱɱɑƞɗ Ɦɑʈɑ Ɗɪɣɑ Ɦɑɪ↗↘ Sɵɽɽɣ Ɠɣuʂ••😹🫶", threadID);
    };
 
-  if ((event.body.toLowerCase() == "ami Ronit") || (event.body.toLowerCase() == "ami Rozi") || (event.body.toLowerCase() == "main amrita") || (event.body.toLowerCase() == "main priyansh") || (event.body.toLowerCase() == "main diya")) {
+  if ((event.body.toLowerCase() == "ami Ronit") || (event.body.toLowerCase() == "ami Rozi") || (event.body.toLowerCase() == "main saniya") || (event.body.toLowerCase() == "main ronit") || (event.body.toLowerCase() == "main diya")) {
      return api.sendMessage("🕊️🍎...Aɭɛ Ɱɛɹɛ Ɓɑɓɣ Ƙɛʂɛ Ɦɵ ɑɑp😚🍒", threadID);
    };
    mess = "{name}"
